@@ -1,0 +1,2 @@
+# Megafin
+Auto increase points
